@@ -12,3 +12,4 @@ public class App {
         System.out.println("Hitting Percentage: " + ((double)Tim.kills / (double)Tim.hitAttempts));
     }
 }
+git status
